@@ -27,8 +27,11 @@
 		"svelte-check": "*",
 		"three": "*",
 		"tslib": "*",
+		"tweakpane": "^3.1.0",
 		"typescript": "*",
-		"vite": "*",
-		"tweakpane": "^3.1.0"
+		"vite": "*"
+	},
+	"dependencies": {
+		"simplex-noise": "^4.0.1"
 	}
 }
